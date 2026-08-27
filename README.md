@@ -16,11 +16,18 @@
 
 <br>
 
-Sole engineer on a multi-country agricultural traceability platform running across Kenya, the DRC and Rwanda — data model, API, offline sync, deployment, reporting. Founder of a live property-billing platform with card and mobile-money payments. Final-year BSc Computer Science at Kabarak University, graduating 2026.
+Backend-focused engineer working mainly in Python. I design relational schemas
+and REST APIs with Django and PostgreSQL, handle async and scheduled work with
+Celery and Redis, and build React frontends when a project needs one.
 
-I like problems where the data is messy, the network is unreliable, and someone downstream has to be able to audit the result.
+Comfortable across the deployment side too — Docker, Linux, nginx, AWS — and
+experienced integrating third-party systems: payment gateways, ERPs over
+XML-RPC, and hardware that speaks its own protocol. Particular depth in
+offline-first architecture: conflict resolution, queued writes, and sync for
+clients that lose connectivity for days at a time.
 
-`English` · `Swahili` · `French`
+Final-year BSc Computer Science, Kabarak University, graduating 2026.
+Languages: English, Swahili, French.
 
 ---
 
