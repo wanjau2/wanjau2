@@ -7,6 +7,7 @@
 *Ships production systems end to end — schema to screen.*
 
 <br>
+[![M8ven Verified](https://m8ven.ai/badge/mcp/wanjau2-immich-mcp-server-fr3r9i?variant=verified)](https://m8ven.ai/mcp/wanjau2-immich-mcp-server-fr3r9i)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-wanjau.tech-0B2545?style=for-the-badge&logoColor=white)](https://wanjau.tech)
 [![Email](https://img.shields.io/badge/Email-eugenewanjau@gmail.com-C2410C?style=for-the-badge&logoColor=white)](mailto:eugenewanjau@gmail.com)
